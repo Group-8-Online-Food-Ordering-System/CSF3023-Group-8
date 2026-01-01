@@ -16,7 +16,7 @@ Description, Flowchart & Pseudocode for Menu Browsing
 Record team roles in README.md in GitHub repository 
 Create folder /flowcharts at GitHub and compile it in the folder /flowcharts
 
-izham 
+IZZHAM ZULQARNAIM BIN KAMARUZAMAN (S79478) 
 (Cart Management): Functional Requirements 3 
 Description, Flowchart & Pseudocode for Cart Management
 Use GitHub Issues and Comments for discussions
