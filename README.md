@@ -4,23 +4,23 @@ Group Project - CSF3023 System Thinking and Logic
 # Food Ordering System
 
 WAN NURUL EZZAH BINTI WAN MAT (S79607)  
-Front cover & Introduction for the report
-(User Authentication): Functional Requirements 1 
-Description, Flowchart & Pseudocode for User Authentication 
-Create a GitHub repository
-Create folder /requirements at GitHub and compile it in the folder /requirements 
+- Front cover & Introduction for the report
+- (User Authentication): Functional Requirements 1 
+- Description, Flowchart & Pseudocode for User Authentication 
+- Create a GitHub repository
+- Create folder /requirements at GitHub and compile it in the folder /requirements 
 
 ASNA SYAMIMI BINTI ZAINA (S79437)  
-(Menu Browsing): Functional Requirements 2 
-Description, Flowchart & Pseudocode for Menu Browsing
-Record team roles in README.md in GitHub repository 
-Create folder /flowcharts at GitHub and compile it in the folder /flowcharts
+- (Menu Browsing): Functional Requirements 2 
+- Description, Flowchart & Pseudocode for Menu Browsing
+- Record team roles in README.md in GitHub repository 
+- Create folder /flowcharts at GitHub and compile it in the folder /flowcharts
 
 IZZHAM ZULQARNAIM BIN KAMARUZAMAN (S79478) 
-(Cart Management): Functional Requirements 3 
-Description, Flowchart & Pseudocode for Cart Management
-Use GitHub Issues and Comments for discussions
-Create folder /report at GitHub and compile it in the folder /report
+- (Cart Management): Functional Requirements 3 
+- Description, Flowchart & Pseudocode for Cart Management
+- Use GitHub Issues and Comments for discussions
+- Create folder /report at GitHub and compile it in the folder /report
 
  Azeem  
 (Order Processing & Payment): Functional Requirements 4  
