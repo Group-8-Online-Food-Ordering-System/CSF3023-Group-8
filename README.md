@@ -8,7 +8,8 @@ WAN NURUL EZZAH BINTI WAN MAT (S79607)
 - (User Authentication): Functional Requirements 1 
 - Description, Flowchart & Pseudocode for User Authentication 
 - Create a GitHub repository
-- Create folder /requirements at GitHub and compile it in the folder /requirements 
+- Create folder /requirements at GitHub and compile it in the folder /requirements
+- Create folder /introduction at GitHub and compile it in the folder /introduction 
 
 ASNA SYAMIMI BINTI ZAINA (S79437)  
 - (Menu Browsing): Functional Requirements 2 
