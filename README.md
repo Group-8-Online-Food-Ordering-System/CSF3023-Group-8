@@ -9,13 +9,15 @@ WAN NURUL EZZAH BINTI WAN MAT (S79607)
 - Description, Flowchart & Pseudocode for User Authentication 
 - Create a GitHub repository
 - Create folder /requirements at GitHub and compile it in the folder /requirements
-- Create folder /introduction at GitHub and compile it in the folder /introduction 
+- Create folder /introduction at GitHub and compile it in the folder /introduction
+- Use GitHub Issues and Comments for discussions 
 
 ASNA SYAMIMI BINTI ZAINA (S79437)  
 - (Menu Browsing): Functional Requirements 2 
 - Description, Flowchart & Pseudocode for Menu Browsing
 - Record team roles in README.md in GitHub repository 
 - Create folder /flowcharts at GitHub and compile it in the folder /flowcharts
+- Use GitHub Issues and Comments for discussions
 
 IZZHAM ZULQARNAIM BIN KAMARUZAMAN (S79478) 
 - (Cart Management): Functional Requirements 3 
@@ -29,3 +31,4 @@ MUHAMMAD AZEEM SYAHMI BIN MUHAMED FAIZA (S79606)
 - Description, Flowcharts & Pseudocode for Order Processing & Payment 
 - Description, Flowcharts & Pseudocode for Order Tracking
 - Create folder /pseudocode at GitHub and compile it in the folder /pseudocode
+- Use GitHub Issues and Comments for discussions
